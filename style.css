@@ -409,7 +409,7 @@ section .title::after {
 
 /* Project section styling */
 .projects .title::after {
-  content: "check my work";
+  content: "Click here";
 }
 .projects .carousel .card {
   background: #222;
